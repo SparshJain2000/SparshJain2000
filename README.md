@@ -15,7 +15,7 @@
 - ###### Git
 - ###### Herkou
 - ###### Third-party API integration
-📝 ***Programming languages as ***
+📝 ***Programming languages as***
 - ###### C++, C, Java, Python, Javasript .
 <!--
 **SparshJain2000/SparshJain2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
