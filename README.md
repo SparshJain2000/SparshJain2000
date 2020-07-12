@@ -6,33 +6,30 @@
 ### I am a full-stack web developer 📚 having a diverse set of skills 
 
 * 📝 ***Front-end technologies***
-  * #### Javascript :
 
-  <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/javascript.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/react.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/jquery.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/ts.png' width="100">
-
-  * #### CSS :
-
-  <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/css3.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/bootstrap.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/semantic.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/material.svg' width="100">
-<!--
-- ###### ReactJS, Angular, Typescript, JQuery, Vanilla JS
-- ###### CSS - Bootstrap, Material-UI, Semantic-UI-->
+  * ##### ReactJS, Angular, Typescript, JQuery, Vanilla JS
+  
+  * ##### CSS - Bootstrap, Material-UI, Semantic-UI
 * 📝 ***Backend technologies***
-
+  * ##### NodeJS, DenoJS
+  * ##### Database : MongoDB, Firebase, SQL
+ 
+ <!--
    <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/nodejs.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/deno.svg' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/express.png' width="100">
 
   * #### Database :
 
   <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/mongo.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/firebase.png' width="100">
-<!--
-- ###### NodeJS, DenoJS
-- ###### Database : MongoDB, Firebase, SQL-->
+-->
 * 📝 ***Other***
-
-  <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/git.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/heroku.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/socket.png' width="100">
+  * ###### Git
+  * ###### Herkou
+  * ###### Web Sockets
+  * ###### Third-party API integration
+  
 <!--
-- ###### Git
-- ###### Herkou
-- ###### Third-party API integration-->
+  <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/git.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/heroku.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/socket.png' width="100">
+-->
 * 📝 ***Programming languages as***
   * ###### C++, C, Java, Python, Javasript .
 <!--
