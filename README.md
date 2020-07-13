@@ -22,9 +22,7 @@
   <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/mongo.png' width="100"> <img src='https://github.com/SparshJain2000/SparshJain2000/blob/master/images/firebase.png' width="100">
 -->
 * 📝 ***Other***
-  * ###### Git
-  * ###### Herkou
-  * ###### Web Sockets
+  * ###### Git, Web Sockets
   * ###### Third-party API integration
   
 <!--
