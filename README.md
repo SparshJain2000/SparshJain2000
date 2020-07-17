@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 ### 📫 Contact Me :
 
-[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@sparsh._jain&color=grey&logo=instagram&style=for-the-badge&logoColor=white&colorA=critical)](https://www.instagram.com/sparsh._jain/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue)](https://www.linkedin.com/in/sparsh-jain-87379a168/) [![Github](https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=for-the-badge&logoColor=white&colorA=black)](https://www.github.com/SparshJain2000/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue)](https://www.linkedin.com/in/sparsh-jain-87379a168/) [![Github](https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=for-the-badge&logoColor=white&colorA=black)](https://www.github.com/SparshJain2000/) [![Gmail](https://img.shields.io/static/v1.svg?message=jainsparsh0801@gmail.com&label=send&style=for-the-badge&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com)](mailto:jainsparsh0801@gmail.com) 
 
