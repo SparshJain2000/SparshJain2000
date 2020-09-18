@@ -6,8 +6,7 @@
 <!-- ## Hi there 👋 -->
 
 
- #### Self taught web developer 💻 that is always looking to grow and improve. I am a passionate learner that is always eager to gain more experience. I am student currently pursuing my bachelor's degree in Information Technology at VIT, Vellore 🏫.
- #### I am a full-stack web developer 📚 having a diverse set of skills 
+ #### I'm a self taught full-stack web developer 💻 that is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Information Technology at VIT, Vellore 🏫.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in web development (MERN stack), competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in frontend and backend web development.
