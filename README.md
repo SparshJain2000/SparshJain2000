@@ -39,8 +39,10 @@ Here are some ideas to get you started:
   <img height="25"  alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img height="25" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img height="25"  alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img height="25"  alt="css3" src="https://img.shields.io/badge/-CSS3-430090?style=flat-square&logo=css3&logoColor=white" />
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img height="25" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img height="25" alt="Nodejs" src="https://img.shields.io/badge/-DenoJS-434343?style=flat-square&logo=deno&logoColor=white" />
 </p>
 
 ### 📑 My Github Stats :
