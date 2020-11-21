@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   
   
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img height="25" alt="GraphQL" src="https://img.shields.io/badge/-Graphql-e535ab?style=flat-square&logo=graphql&logoColor=white" />
   <img height="25" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img height="25" alt="DenoJS" src="https://img.shields.io/badge/-DenoJS-434343?style=flat-square&logo=deno&logoColor=white" />
   <img height="25" alt="firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase" />
