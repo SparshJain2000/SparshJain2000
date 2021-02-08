@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### 📑 My Github Stats :
 
-<p align="center">
+<p align="center">shj
  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshJain2000&theme=radical&hide=html,java" />
 </p>
@@ -65,5 +65,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sparsh-jain-87379a168/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
 <a href="https://www.github.com/SparshJain2000/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
 <a href="mailto:jainsparsh0801@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainsparsh0801@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a>
+<a href="https://leetcode.com/Sparsh_Jain/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@Sparsh_Jain&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
 <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=SparshJain2000.SparshJain2000" /> 
+
 
