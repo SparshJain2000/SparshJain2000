@@ -1,8 +1,11 @@
 
 
-<h1 align="center">Hello World <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>, I'm Sparsh!</h1>
-
-
+<!-- <h1 align="center">Hello World <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>, I'm Sparsh!</h1> -->
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F8408C&size=35&center=true&vCenter=true&width=600&lines=Hello+World+%2C+I'm+Sparsh!)](https://git.io/typing-svg)
+ 
+</div>
 <!-- ## Hi there 👋 -->
 
 
@@ -57,8 +60,11 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshJain2000&theme=radical&hide=html,java" />
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshJain2000&theme=radical&layout=compact&hide=html,java,ejs" />
 </p>
+
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SparshJain2000&theme=rogue)](https://github.com/SparshJain2000/github-readme-activity-graph)
+
 
 ### 🤝 Connect with Me :
 
