@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img height="25" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img height="25" alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
   <img height="25" alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img height="25" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img height="25" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -50,10 +51,13 @@ Here are some ideas to get you started:
   <img height="25" alt="GraphQL" src="https://img.shields.io/badge/-Graphql-e535ab?style=flat-square&logo=graphql&logoColor=white" />
   <img height="25" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img height="25" alt="DenoJS" src="https://img.shields.io/badge/-DenoJS-434343?style=flat-square&logo=deno&logoColor=white" />
+  <img height="25" alt="Flask" src="https://img.shields.io/badge/-Flask-43953d?style=flat-square&logo=flask&logoColor=white" />
   <img height="25" alt="firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase" />
   <img height="25" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img height="25" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=flat-square&logo=azure-devops&logoColor=white" />
   <img height="25" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  
+  
 </p>
 
 ### 📑 My Github Stats :
