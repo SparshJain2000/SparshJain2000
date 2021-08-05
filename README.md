@@ -52,10 +52,13 @@ Here are some ideas to get you started:
   <img height="25" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img height="25" alt="DenoJS" src="https://img.shields.io/badge/-DenoJS-434343?style=flat-square&logo=deno&logoColor=white" />
   <img height="25" alt="Flask" src="https://img.shields.io/badge/-Flask-43953d?style=flat-square&logo=flask&logoColor=white" />
+ 
+  <img height="25" alt="docker" src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img height="25" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img height="25" alt="firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase" />
   <img height="25" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img height="25" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=flat-square&logo=azure-devops&logoColor=white" />
-  <img height="25" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  
   
   
 </p>
