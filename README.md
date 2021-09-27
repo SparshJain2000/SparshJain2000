@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img height="25" alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design%20-%230081CB.svg?&style=flat-square&logo=ant-design&logoColor=white" />
   <img height="25" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white" />
   <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white" />
-  
+  <img height="25" alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-8DD6F9?style=flat-square&logo=tailwind-css&logoColor=white" />
   
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img height="25" alt="GraphQL" src="https://img.shields.io/badge/-Graphql-e535ab?style=flat-square&logo=graphql&logoColor=white" />
