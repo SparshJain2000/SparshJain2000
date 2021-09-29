@@ -1,6 +1,5 @@
 
 
-<!-- <h1 align="center">Hello World <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>, I'm Sparsh!</h1> -->
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F8408C&size=35&center=true&vCenter=true&width=600&lines=Hello+World+%2C+I'm+Sparsh!)](https://git.io/typing-svg)
