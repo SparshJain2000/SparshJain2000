@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <h3>💻 Things I code with</h3>
 <p>
   <img height="25" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+   <img height="25" alt="React" src="https://img.shields.io/badge/-NextJS-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img height="25" alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
   <img height="25" alt="css3" src="https://img.shields.io/badge/-CSS3-430090?style=flat-square&logo=css3&logoColor=white" />
   <img height="25" alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design%20-%230081CB.svg?&style=flat-square&logo=ant-design&logoColor=white" />
   <img height="25" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white" />
-  <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white" />
+  <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=mui&logoColor=white" />
   <img height="25" alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-8DD6F9?style=flat-square&logo=tailwind-css&logoColor=white" />
   
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
