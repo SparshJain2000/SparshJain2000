@@ -10,8 +10,8 @@
 
  #### I'm a self taught full-stack web developer 💻 that is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Information Technology at VIT, Vellore 🏫.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in web development (MERN stack), competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in frontend and backend web development.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in machine learning, web development (MERN stack), competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in frontend and backend web development and machine learning.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
 - 🌐 Visit my [porfolio website](https://sparshjain.in/).
