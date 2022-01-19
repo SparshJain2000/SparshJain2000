@@ -45,10 +45,11 @@ Here are some ideas to get you started:
   <img height="25" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img height="25" alt="css3" src="https://img.shields.io/badge/-CSS3-430090?style=flat-square&logo=css3&logoColor=white" />
   <img height="25" alt="scss" src="https://img.shields.io/badge/-Scss-e535ab?style=flat-square&logo=sass&logoColor=white" />
-  <img height="25" alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design%20-%230081CB.svg?&style=flat-square&logo=ant-design&logoColor=white" />
   <img height="25" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white" />
+  <img height="25" alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-8DD6F9?style=flat-square&logo=tailwind-css&logoColor=white" /> 
+  <img height="25" alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design%20-%230081CB.svg?&style=flat-square&logo=ant-design&logoColor=white" />
   <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=mui&logoColor=white" />
-  <img height="25" alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-8DD6F9?style=flat-square&logo=tailwind-css&logoColor=white" />
+  
   
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img height="25" alt="GraphQL" src="https://img.shields.io/badge/-Graphql-e535ab?style=flat-square&logo=graphql&logoColor=white" />
