@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <img height="25" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img height="25" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
  
- 
   <img height="25" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img height="25" alt="css3" src="https://img.shields.io/badge/-CSS3-430090?style=flat-square&logo=css3&logoColor=white" />
   <img height="25" alt="scss" src="https://img.shields.io/badge/-Scss-e535ab?style=flat-square&logo=sass&logoColor=white" />
