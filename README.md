@@ -61,9 +61,6 @@ Here are some ideas to get you started:
   <img height="25" alt="firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase" />
   <img height="25" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img height="25" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=flat-square&logo=azure-devops&logoColor=white" />
-  
-  
-  
 </p>
 
 ### 📑 My Github Stats :
