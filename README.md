@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
 </p> -->
 
-[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SparshJain2000&theme=rogue)](https://github.com/SparshJain2000/github-readme-activity-graph)
 
 
 ### 🤝 Connect with Me :
