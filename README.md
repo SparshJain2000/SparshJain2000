@@ -14,7 +14,7 @@
 - 🤝 Open for collaborations in frontend and backend web development and machine learning.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
-- 🌐 Visit my [porfolio website](https://sparshjain.in/).
+- 🌐 Visit my [porfolio website](https://sparshjain.co.in/).
 <!--
 **SparshJain2000/SparshJain2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
