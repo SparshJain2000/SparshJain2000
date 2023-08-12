@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 ### 📑 My Github Stats :
 
 <p align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshJain2000&theme=radical&layout=compact&hide=html,java,ejs" />
  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SparshJain2000&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 <!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SparshJain2000&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
